@@ -58,8 +58,8 @@ Frontend Mentor vazifalari sizning dasturlash ko‘nikmalaringizni real loyihala
 
 ## 🔗 Links / Havolalar
 
-- Solution URL: [Add your solution URL here](#)
-- Live Site URL: [Add your live site URL here](#)
+- Solution URL: [https://github.com/numonofcv/Huddle-landing-page-with-single-introductory-section-master-](#)
+- Live Site URL: [https://bynumonofcv-huddle-landing-page.netlify.app/](#)
 
 ---
 
